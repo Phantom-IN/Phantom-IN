@@ -32,7 +32,17 @@ Some additions info and updates:
 
 ##
 
-**Languages 👨‍💻**
+```dart
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : {"Python", "Java", "C++", "C", "Javascript" },
+    "OtherLanguages" : {"HTML", "CSS", "Bash", "Markdown", "MySQL"},
+    "Editors/IDE" : {"Vscode", "Sublime", "PyCHarm", "IntelliJ Idea", "Jupyter Notebook", "CodeBlocks"},
+    "Platforms" : {"GNU/Linux", "Windows", "Kali Linux", "Parrot Sec OS", "Tails", "Ubuntu", "Debian"},
+    "OtherTools" : {"Tableau", "Google Colab", "Virtual Box"}
+  };
+}
+```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,19 +51,14 @@ Some additions info and updates:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools 🛠️**
-
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
-**OS 💻**
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Deb](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
