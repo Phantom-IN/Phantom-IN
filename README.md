@@ -35,11 +35,11 @@ Some additions info and updates:
 ```dart
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : {"Python", "Java", "C++", "C", "Javascript" },
+    "ProgramingLanguages" : {"Python", "Django", "Java", "C++", "C", "Javascript"},
     "OtherLanguages" : {"HTML", "CSS", "Bash", "Markdown", "MySQL"},
     "Editors/IDE" : {"Vscode", "Sublime", "PyCHarm", "IntelliJ Idea", "Jupyter Notebook", "CodeBlocks"},
     "Platforms" : {"GNU/Linux", "Windows", "Kali Linux", "Parrot Sec OS", "Tails", "Ubuntu", "Debian"},
-    "OtherTools" : {"Tableau", "Google Colab", "Virtual Box"}
+    "OtherTools" : {"Tableau", "Google Colab", "Virtual Box", "AWS"}
   };
 }
 ```
