@@ -15,20 +15,11 @@ Thank you for visiting my profile, and I look forward to connecting with you!
 
 ##
 
-📫 **Reach out to Me:**
-<p>
-<a href="https://www.linkedin.com/in/vaibhav-vanage/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/VaibhavVanage" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
-##
-
 Some additions info and updates:
 - 🔭 I’m currently working on implementation of Machine Learning and Deep Learning in CyberSecurity.
 - 🌱 I’m currently exploring AI/ML.
 - 💬 Ask me about anything, always happy to help.
 - ⚡ Fun fact: Privacy is a myth!
-- 📝 [Resume](https://docs.google.com/document/d/1hTZh-yW2jjsiswn3OUkuLxYCUstr1WET/edit?usp=share_link&ouid=109736125104241028889&rtpof=true&sd=true)
 
 ##
 
