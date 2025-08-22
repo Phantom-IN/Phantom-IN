@@ -1,55 +1,66 @@
-<h1 align="center">Hello World...!!! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Vaibhav</h1>
-<h3 align="center">Cyber Security Enthusiast and Data Science student.</h3>
+# Vaibhav Vanage
 
-![Profile Visits](https://komarev.com/ghpvc/?username=Phantom-IN)
+**Cybersecurity & DevSecOps Engineer | AI Security Researcher**
 
-<!-- <img align="right" width="300px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"> -->
-<img align="right" width="225px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-Welcome to my GitHub profile! I'm Vaibhav, a Cyber Geek 👨‍💻. I have a keen interest in CyberSecurity and how it can be integrated into software development. My GitHub account is a reflection of my diverse range of interests and expertise, including Web Development 🌐, Machine Learning 🤖, Data Science 📊, and CyberSecurity 🛡️. Here, you'll find a collection of my projects, from personal experiments to professional collaborations.
+<img align="right" width="200px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
-I am committed to staying up-to-date with the latest technologies and trends in the industry, including cybersecurity best practices. 
+![Profile Visits](https://komarev.com/ghpvc/?username=Phantom-IN&color=0e75b6&style=flat)
 
-Whether you're interested in exploring my projects, collaborating on a new idea, or discussing cybersecurity strategies, I'm excited to be a part of this vibrant community. Feel free to reach out to me with any questions or ideas you may have.<br>
-Thank you for visiting my profile, and I look forward to connecting with you!
+I specialize in **cybersecurity**, **AI/ML security**, and **backend development** with a focus on building secure, scalable systems. Currently working on LLM security solutions, automated DevSecOps pipelines, and researching adversarial AI defense mechanisms.
 
-##
+I’ve had the chance to design security automations, implement data masking for compliance, build release systems at scale, and even report vulnerabilities to big names like Dell, Lenovo, and Oxford University. Along the way, I’ve also hacked my way through a bunch of hackathons (literally a dozen wins) and built side projects around VAPT, AI security, and workflow automation.
 
-Some additions info and updates:
-- 🔭 I’m currently working on implementation of Machine Learning and Deep Learning in CyberSecurity.
-- 🌱 I’m currently exploring AI/ML.
-- 💬 Ask me about anything, always happy to help.
-- ⚡ Fun fact: Privacy is a myth!
+My expertise spans from secure software development to implementing AI firewalls and automating security workflows in CI/CD environments.
 
-##
+## Current Focus
 
-```dart
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : {"Python", "Django", "Java", "C++", "C", "Javascript"},
-    "OtherLanguages" : {"HTML", "CSS", "Bash", "Markdown", "MySQL"},
-    "Editors/IDE" : {"Vscode", "Sublime", "PyCHarm", "IntelliJ Idea", "Jupyter Notebook", "CodeBlocks"},
-    "Platforms" : {"GNU/Linux", "Windows", "Kali Linux", "Parrot Sec OS", "Tails", "Ubuntu", "Debian"},
-    "OtherTools" : {"Tableau", "Google Colab", "Virtual Box", "AWS"}
-  };
-}
-```
+- 🔒 Building **LLM Guard** - AI firewall middleware for adversarial defense
+- ⚙️ Automating **DevSecOps pipelines** with security-first approaches  
+- 🧠 Researching **AI/ML security** - prompt injections, jailbreaks, and model safety
+- 🛡️ Developing **VAPT automation tools** for efficient security assessments
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Deb](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+## Tech Stack
 
+### Security & DevSecOps
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Tools:** Burp Suite, Nmap, SQLmap, Nuclei, Snort, Wireshark  
+**Platforms:** Azure DevOps, AKS, ArgoCD, Kubernetes  
+**Specialization:** VAPT, Threat Modeling, Secure SDLC
+
+### Backend Development
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Authentication:** JWT, OAuth2, Biometric Login  
+**Architecture:** REST APIs, Microservices, RBAC
+
+### AI/ML Security
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Focus Areas:** LLM Security, Adversarial ML, Prompt Engineering Defense
+
+## Key Projects
+
+**🛡️ LLM Guard** - AI firewall middleware with modular input/output guardrails, protecting LLMs from prompt injections, jailbreaks, and data leakage
+
+**🤖 VAPT Automation Bot** - Telegram-based security testing tool with hybrid Python/Go architecture for automated reconnaissance and vulnerability assessment
+
+**☁️ DevSecOps Templates** - Standardized Azure Pipeline templates with automated SBOM generation and security compliance integration
+
+**🎯 CyberRange Platform** - Cloud-based security training environment with on-demand Kali Linux instances and real-time threat simulation
+
+---
+
+💬 **Ask me about:** Cybersecurity, AI Security, DevSecOps, or Backend Development  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-vanage)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Phantom-IN)
